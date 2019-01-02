@@ -1,0 +1,118 @@
+h1:hover {
+    font-size: 40px
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    font-size: 25px;
+
+  }
+
+  .my-works {
+    text-align: center;
+    font-size: 18px
+  }
+
+  .my-works img {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+  }
+
+  .my-works a {
+    color: navy;
+  }
+
+  .my-works a:hover {
+    color: maroon
+  }
+
+  .about img:hover {
+    width: 700px;
+    height: 500px;
+    border: 3;
+    border-radius: 5%;
+  }
+
+  .about img {
+    width: 500px;
+    height: 500px;
+    border: 2;
+    border-radius: 50%
+  }
+
+  .about {
+    text-align: justify;
+    position: relative;
+    color: black;
+    font-size: 18px;
+    font-family: monospace;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .about a {
+    color: rgb(189, 71, 28)
+  }
+
+  .about a:hover {
+    color: navy;
+  }
+
+  .heading {
+    text-align: center;
+  }
+
+  .navigation-bar {
+    text-align: center;
+    background-color: rgb(0, 0, 0)
+  }
+
+  .navigation-bar a {
+    color: rgb(190, 184, 184);
+  }
+
+  .navigation-bar a:hover {
+    color: rgb(255, 255, 255);
+  }
+
+  body {
+    background-image: url('images/bg.jpg');
+    background-attachment: fixed
+  }
+
+  .page-left {
+    width: 40%;
+    height: 700px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: "left";
+    float: left;
+}
+
+.page-right {
+    width: 53%;
+    height: 700px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: "left";
+    font-size: 16px;
+    float: right;
+}
+
+.page-left img:hover {
+    width: 600px;
+    height: 600px;
+    border-color: gray;
+    border-radius: 5%
+}
+
+.page-left img {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    border-color: gray
+}
