@@ -66,6 +66,15 @@ h1:hover {
     text-align: center;
   }
 
+  .footer {
+    text-align: center;
+  }
+
+  .footer img {
+    width:2%;
+    height:1%
+  }
+
   .navigation-bar {
     text-align: center;
     background-color: rgb(0, 0, 0)
