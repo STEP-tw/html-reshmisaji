@@ -12,6 +12,22 @@
   * [Videos](https://www.google.com/search?biw=1420&bih=653&tbm=vid&ei=4BgmXMeIFIHZvASDnrmIBQ&q=dream+catcher+video&oq=dream+catcher+video&gs_l=psy-ab.3..0l7j0i7i30k1l3.8103.8103.0.8543.1.1.0.0.0.0.95.95.1.1.0....0...1c.1.64.psy-ab..0.1.95....0.d5nnGfWZXDo)
   * Buy Dream Catchers
  ---
- ## Sample pictures
- ![alt home page](https://step-tw.github.io/html-reshmisaji/images/traditionalDreamcatcher.jpg)
+ ## Sample page views:
  
+ ### Home Page
+ ![alt homePage](https://github.com/STEP-tw/html-reshmisaji/blob/master/screenShots/homepage.png)
+ ---
+ ### Where do they come from ?
+ ![alt where do they come from](https://github.com/STEP-tw/html-reshmisaji/blob/master/screenShots/where_do_they_come.png)
+ ---
+ ### Story behind dream catchers.
+ ![alt story behind](https://github.com/STEP-tw/html-reshmisaji/blob/master/screenShots/story_behind.png)
+ ---
+ ### My Dream Catchers
+ ![alt my_drawings](https://github.com/STEP-tw/html-reshmisaji/blob/master/screenShots/drawings.png)
+ 
+ ![alt my crafts](https://github.com/STEP-tw/html-reshmisaji/blob/master/screenShots/crafts.png)
+ ---
+ ### Buy dream catchers
+ ![alt buy dream catchers](https://github.com/STEP-tw/html-reshmisaji/blob/master/screenShots/buy_dreamcatchers.png)
+ ---
